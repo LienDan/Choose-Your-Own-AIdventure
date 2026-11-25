@@ -2,6 +2,6 @@
     "model": "qwen3.5:4b",
 
     "options":{
-        "num_ctx": 16384 
+        "num_ctx": 4000
     }
 }
